@@ -1,0 +1,2 @@
+step 1: decision to make the pages not overflow. average time per website is about 1 minute. https://hostingtribunal.com/blog/average-time-spent-on-website/#content-2
+so it would make much more sense that the website be viewable in 1 minute.
